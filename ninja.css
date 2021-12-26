@@ -1,0 +1,140 @@
+
+body{background-image: url(green.jpg);
+	background-size: cover;}
+
+
+.main{height: 550px;
+	width: 800px;
+	border: 4px solid black;
+	position: relative;
+	top: 5px;
+	left: 270px;}
+
+header{height: 100px;
+	width: 500px;
+	background-color: transparent;
+	font-size: 75px;
+	font-style: italic;
+	text-align: center;
+	position:absolute;
+	left: 100PX;
+	top: 30PX;}
+
+.test{height: 90px;
+	width: 100px;
+	background-color: red;
+	position: absolute;
+	left: 550px;
+	top: 30px;
+	background-image: url(home.jpg);}
+
+.tex{position: absolute;
+	font-size: 20px;
+	text-align: center;
+	top: 120px;
+	left: 230px;
+	font-style: italic;}
+
+.box1{
+	position: relative;
+	top: 190px;
+	left: 230px;
+	height: 35px;
+	width: 350px;
+	text-align: center;
+	}
+
+	
+
+.box2{
+	position: relative;
+	top: 190px;
+	left: 230px;
+	height: 30px;
+	width: 350px;
+	text-align: center;}
+	
+.btn1{height: 37px;
+	width: 250px;
+	background-color :black;
+	color: white;
+	text-align: center;
+	position: relative;
+	top: 260px;
+	right: 80px;
+    font-style: italic;
+    font-family: cursive;
+    font-size: 25px;
+    
+}
+
+.tex2{position: relative;
+	top: 237px;
+	left: 295px;
+    text-decoration: underline;
+    font-style: italic;
+
+}
+.btn2{height: 37px;
+	width: 250px;
+	background-color :black;
+	color: white;
+	text-align: center;
+	position: relative;
+	top: 240px;
+	left: 285px;
+    font-style: italic;
+    font-family: cursive;
+    font-size: 25px;}
+    
+
+.tex3{position: relative;
+	top: 230px;
+	left: 295px;
+    text-decoration: underline;
+    font-style: italic;}
+
+.name{position: relative;
+     top: 230px;
+     font-size: 30px;
+     color:chocolate;
+     left: 20px;
+
+}
+
+
+.name2{position: relative;
+     top: 210px;
+     font-size: 30px;
+     color:red;
+     left: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
